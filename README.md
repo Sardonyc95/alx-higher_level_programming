@@ -105,4 +105,91 @@ Namespaces are one honking great idea -- let's do more of those!
 - What is a lambda function
 - What are the map, reduce and filter functions
 
-##
+## 0x05. Python - Exceptions [Python] 
+### Learning Objectives:
+- Why Python programming is awesome
+- What’s the difference between errors and exceptions
+- What are exceptions and how to use them
+- When do we need to use exceptions
+- How to correctly handle an exception
+- What’s the purpose of catching exceptions
+- How to raise a builtin exception
+- When do we need to implement a clean-up action after an exception
+
+## 0x06. Python - Classes and Objects [Python, OOP]
+### Learning Objectives:
+- Why Python programming is awesome
+- What is OOP
+- “first-class everything”
+- What is a class
+- What is an object and an instance
+- What is the difference between a class and an object or instance
+- What is an attribute
+- What are and how to use public, protected and private attributes
+- What is self
+- What is a method
+- What is the special __init__ method and how to use it
+- What is Data Abstraction, Data Encapsulation, and Information Hiding
+- What is a property
+-What is the difference between an attribute and a property in Python
+- What is the Pythonic way to write getters and setters in Python
+- How to dynamically create arbitrary new attributes for existing instances of a class
+- How to bind attributes to object and classes
+- What is the __dict__ of a class and/or instance of a class and what does it contain
+- How does Python find the attributes of an object or class
+- How to use the getattr function
+
+## 0x07. Python - Test-driven development [Python, UnitTests, TDD]
+### Learning Objectives:
+- Why Python programming is awesome
+- What’s an interactive test
+- Why tests are important
+- How to write Docstrings to create tests
+- How to write documentation for each module and function
+- What are the basic option flags to create tests
+- How to find edge cases
+
+## 0x08. Python - More Classes and Objects [Python, OOP]
+### Learning Objectives:
+- Why Python programming is awesome
+- What is OOP
+- “first-class everything”
+- What is a class
+- What is an object and an instance
+- What is the difference between a class and an object or instance
+- What is an attribute
+- What are and how to use public, protected and private attributes
+- What is self
+- What is a method
+- What is the special __init__ method and how to use it
+- What is Data Abstraction, Data Encapsulation, and Information Hiding
+- What is a property
+- What is the difference between an attribute and a property in Python
+- What is the Pythonic way to write getters and setters in Python
+- What are the special __str__ and __repr__ methods and how to use them
+- What is the difference between __str__ and __repr__
+- What is a class attribute
+- What is the difference between a object attribute and a class attribute
+- What is a class method
+- What is a static method
+- How to dynamically create arbitrary new attributes for existing instances of a class
+- How to bind attributes to object and classes
+- What is and what does contain __dict__ of a class and of an instance of a class
+- How does Python find the attributes of an object or class
+- How to use the getattr function
+
+## 0x09. Python - Everything is object [Python, OOP]
+- Why Python programming is awesome
+- What is an object
+- What is the difference between a class and an object or instance
+- What is the difference between immutable object and mutable object
+- What is a reference
+- What is an assignment
+- What is an alias
+- How to know if two variables are identical
+- How to know if two variables are linked to the same object
+- How to display the variable identifier (which is the memory address in the CPython implementation)
+- What is mutable and immutable
+- What are the built-in mutable types
+- What are the built-in immutable types
+- How does Python pass variables to functions
