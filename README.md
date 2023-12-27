@@ -179,6 +179,7 @@ Namespaces are one honking great idea -- let's do more of those!
 - How to use the getattr function
 
 ## 0x09. Python - Everything is object [Python, OOP]
+### Learning Objectives:
 - Why Python programming is awesome
 - What is an object
 - What is the difference between a class and an object or instance
@@ -193,3 +194,43 @@ Namespaces are one honking great idea -- let's do more of those!
 - What are the built-in mutable types
 - What are the built-in immutable types
 - How does Python pass variables to functions
+
+## 0x0A. Python - Inheritance [Python, OOP, Inheritance]
+### Learning Objectives:
+- Why Python programming is awesome
+- What is a superclass, baseclass or parentclass
+- What is a subclass
+- How to list all attributes and methods of a class or instance
+- When can an instance have new attributes
+- How to inherit class from another
+- How to define a class with multiple base classes
+- What is the default class every class inherit from
+- How to override a method or attribute inherited from the base class
+- Which attributes or methods are available by heritage to subclasses
+- What is the purpose of inheritance
+- What are, when and how to use isinstance, issubclass, type and super built-in functions
+
+## 0x0B. Python - Input/Output [Python]
+### Learning Objectives:
+- Why Python programming is awesome
+- How to open a file
+- How to write text in a file
+- How to read the full content of a file
+- How to read a file line by line
+- How to move the cursor in a file
+- How to make sure a file is closed after using it
+- What is and how to use the with statement
+- What is JSON
+- What is serialization
+- What is deserialization
+- How to convert a Python data structure to a JSON string
+- How to convert a JSON string to a Python data structure
+
+## 0x0C. Python - Almost a circle [Python, OOP]
+### Learning Objectives:
+- What is Unit testing and how to implement it in a large project
+- How to serialize and deserialize a Class
+- How to write and read a JSON file
+- What is *args and how to use it
+- What is **kwargs and how to use it
+- How to handle named arguments in a function
