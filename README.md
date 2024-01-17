@@ -34,6 +34,9 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 
+
+                         Higher-level programming - Python
+
 ## 0x00. Python - Hello, World
 ### Learning Objectives:
 - Why Python programming is awesome
@@ -234,3 +237,20 @@ Namespaces are one honking great idea -- let's do more of those!
 - What is *args and how to use it
 - What is **kwargs and how to use it
 - How to handle named arguments in a function
+
+
+                          Higher-level programming - AirBnB clone
+
+## 0x00. AirBnB clone - The console
+### Learning Objectives: [Group project, Python, OOP]
+- How to create a Python package
+- How to create a command interpreter in Python using the cmd module
+- What is Unit testing and how to implement it in a large project
+- How to serialize and deserialize a Class
+- How to write and read a JSON file
+- How to manage datetime
+- What is an UUID
+- What is *args and how to use it
+- What is **kwargs and how to use it
+- How to handle named arguments in a function
+
